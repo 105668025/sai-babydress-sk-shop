@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+.leftmenu{
+	background-color:#0FF;
+}
+	a:link{
+		color:#000;
+	}
+	a:visited{
+		color:#F39;
+	}
+	a:hover{
+		color:#00F;
+	}
+	a:active{
+		color:#060;
+	}
+
